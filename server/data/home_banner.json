@@ -1,0 +1,178 @@
+[
+    {
+        "picUrl": "https://yanxuan.nosdn.127.net/5a8fdfaa42b384309a0e7425305fabed.jpg",
+        "expireTime": 0,
+        "extra": {
+            "materialType": "广告banner",
+            "materialId": "54629220",
+            "operator": "李雪",
+            "materialName": "9.9元专区-蓝色",
+            "rcmdSort": false,
+            "taskType": 1,
+            "itemFrom": 0,
+            "crmUserGroupName": "",
+            "resourcesId": 1,
+            "crmUserGroupId": "0",
+            "taskId": "54630917"
+        },
+        "name": "9.9元专区-蓝色",
+        "onlineTime": 0,
+        "id": 54629220,
+        "originSchemeUrl": "https://m.you.163.com/topic/v1/pub/Pew1KBH9Au.html",
+        "targetUrl": "https://m.you.163.com/topic/v1/pub/Pew1KBH9Au.html"
+    },
+    {
+        "picUrl": "https://yanxuan.nosdn.127.net/8d2af3ab55bf51d5ac03e5d9c6fa1fc4.jpg",
+        "expireTime": 0,
+        "extra": {
+            "materialType": "广告banner",
+            "materialId": "54629036",
+            "operator": "胡喜媛",
+            "materialName": "特惠榜",
+            "rcmdSort": false,
+            "taskType": 1,
+            "itemFrom": 0,
+            "crmUserGroupName": "",
+            "resourcesId": 2,
+            "crmUserGroupId": "0",
+            "taskId": "54630916"
+        },
+        "name": "特惠榜",
+        "onlineTime": 0,
+        "id": 54629036,
+        "originSchemeUrl": "https://m.you.163.com/item/preferentiRank",
+        "targetUrl": "https://m.you.163.com/item/preferentiRank"
+    },
+    {
+        "picUrl": "https://yanxuan.nosdn.127.net/542cc7564cffd33478c689c2380a9f91.jpg",
+        "expireTime": 0,
+        "extra": {
+            "materialType": "广告banner",
+            "materialId": "54629120",
+            "operator": "李雪",
+            "materialName": "7.17-7.27爱吃福利站",
+            "rcmdSort": false,
+            "taskType": 1,
+            "itemFrom": 0,
+            "crmUserGroupName": "",
+            "resourcesId": 3,
+            "crmUserGroupId": "0",
+            "taskId": "54630776"
+        },
+        "name": "7.17-7.27爱吃福利站",
+        "onlineTime": 0,
+        "id": 54629120,
+        "originSchemeUrl": "https://act.you.163.com/act/pub/cwruDmq4vq.html",
+        "targetUrl": "https://act.you.163.com/act/pub/cwruDmq4vq.html"
+    },
+    {
+        "picUrl": "https://yanxuan.nosdn.127.net/40171e68eb2189ed309e7a89a030b748.jpg",
+        "expireTime": 0,
+        "extra": {
+            "materialType": "广告banner",
+            "materialId": "54629417",
+            "operator": "李雪",
+            "materialName": "洗护大促-拼团V2-7.20-26",
+            "rcmdSort": false,
+            "taskType": 1,
+            "itemFrom": 0,
+            "crmUserGroupName": "",
+            "resourcesId": 4,
+            "crmUserGroupId": "0",
+            "taskId": "54630920"
+        },
+        "name": "洗护大促-拼团V2-7.20-26",
+        "onlineTime": 0,
+        "id": 54629417,
+        "originSchemeUrl": "https://you.163.com/act/pub/kMoFShkTIs1M.html",
+        "targetUrl": "https://you.163.com/act/pub/kMoFShkTIs1M.html"
+    },
+    {
+        "picUrl": "https://yanxuan.nosdn.127.net/a9827ac1ad9c54b31cda1debf38c3414.jpg",
+        "expireTime": 0,
+        "extra": {
+            "materialType": "广告banner",
+            "materialId": "54628724",
+            "operator": "胡喜媛",
+            "materialName": "专题 50元以内好物-长期",
+            "rcmdSort": false,
+            "taskType": 1,
+            "itemFrom": 0,
+            "crmUserGroupName": "",
+            "resourcesId": 5,
+            "crmUserGroupId": "0",
+            "taskId": "54630919"
+        },
+        "name": "专题 50元以内好物-长期",
+        "onlineTime": 0,
+        "id": 54628724,
+        "originSchemeUrl": "https://m.you.163.com/topic/v1/pub/MfgkRvKeVp.html",
+        "targetUrl": "https://m.you.163.com/topic/v1/pub/MfgkRvKeVp.html"
+    },
+    {
+        "picUrl": "https://yanxuan.nosdn.127.net/b7166c2fbec78249efab080825999871.jpg",
+        "expireTime": 0,
+        "extra": {
+            "materialType": "广告banner",
+            "materialId": "54629322",
+            "operator": "李雪",
+            "materialName": "奥莱V2 -7.21~7.31",
+            "rcmdSort": false,
+            "taskType": 1,
+            "itemFrom": 0,
+            "crmUserGroupName": "",
+            "resourcesId": 6,
+            "crmUserGroupId": "0",
+            "taskId": "54630784"
+        },
+        "name": "奥莱V2 -7.21~7.31",
+        "onlineTime": 0,
+        "id": 54629322,
+        "originSchemeUrl": "https://act.you.163.com/act/pub/gNZffnTyFn.html",
+        "targetUrl": "https://act.you.163.com/act/pub/gNZffnTyFn.html"
+    },
+    {
+        "picUrl": "https://yanxuan.nosdn.127.net/0b6674a2710f2ffcc63ad16a1bc2c0c7.jpg",
+        "expireTime": 0,
+        "extra": {
+            "materialType": "广告banner",
+            "materialId": "54629271",
+            "operator": "李雪",
+            "materialName": "无汗厨房长期",
+            "rcmdSort": false,
+            "taskType": 1,
+            "itemFrom": 0,
+            "crmUserGroupName": "",
+            "resourcesId": 7,
+            "crmUserGroupId": "0",
+            "taskId": "54630918"
+        },
+        "name": "无汗厨房长期",
+        "onlineTime": 0,
+        "id": 54629271,
+        "originSchemeUrl": "https://m.you.163.com/topic/v1/pub/qei1hVHghx.html",
+        "targetUrl": "https://m.you.163.com/topic/v1/pub/qei1hVHghx.html"
+    },
+    {
+        "picUrl": "https://yanxuan.nosdn.127.net/8854e16a44993948433c604066316c2e.jpg",
+        "expireTime": 0,
+        "extra": {
+            "materialType": "广告banner",
+            "materialId": "54629375",
+            "operator": "李雪",
+            "materialName": "服饰-水果穿搭",
+            "rcmdSort": false,
+            "taskType": 1,
+            "itemFrom": 0,
+            "crmUserGroupName": "",
+            "resourcesId": 8,
+            "crmUserGroupId": "0",
+            "taskId": "54630921"
+        },
+        "name": "服饰-水果穿搭",
+        "onlineTime": 0,
+        "id": 54629375,
+        "originSchemeUrl": "https://act.you.163.com/act/pub/B0IcNi7Cqz.html",
+        "targetUrl": "https://act.you.163.com/act/pub/B0IcNi7Cqz.html"
+    }
+]
